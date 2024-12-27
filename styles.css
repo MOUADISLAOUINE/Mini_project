@@ -1,0 +1,39 @@
+
+#logo {
+  border-radius: 35%;
+  width: 1.5cm;
+  height: 1cm;
+  border-color: black;
+}
+
+#intro{
+    text-align: center;
+    padding-top: 2cm;
+    color:  #f3f5f6;;
+    box-sizing:content-box;
+}
+
+#intro1{
+  text-align: center;
+  padding-top: 1cm;
+  color:  #f3f5f6;;
+  box-sizing:content-box;
+}
+
+#sect{
+  background-color: #212529;
+  color: aliceblue;
+  padding-bottom: 5%;
+}
+
+#text{
+   color:aliceblue;
+}
+#card1{
+  display:flex;
+  justify-content: center;
+}
+#card1:hover{
+  transform: scale(1.1);
+  background-color: aqua;
+}
